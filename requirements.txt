@@ -1,2 +1,8 @@
-arcade>=2.6.17
-pygame
+arcade==3.3.3
+attrs==25.4.0
+pillow==11.3.0
+pyglet==2.1.13
+pymunk==6.9.0
+pytiled_parser==2.2.9
+typing_extensions==4.15.0
+packaging==26.0
